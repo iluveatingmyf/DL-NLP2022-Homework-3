@@ -2,4 +2,5 @@
 DL-NLP2022-Homework-3
 
 
-jupyter notebook file 
+code.ipynb 是jupyter notebook file，包含原理说明和代码讲解；
+
